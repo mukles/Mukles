@@ -25,7 +25,7 @@ As a Frontend Developer at LetsDunch, I developed and maintained UI components u
 
 ### 🌟 A Few Facts About Me  
 📌 **Competitive Programmer:** [Beecrowd Profile](https://www.beecrowd.com/@mukles)  
-📌 **Portfolio:** [tfmukles.vercel.app](https://tfmukles.vercel.app)  
+📌 **Portfolio:** [mukles.vercel.app](https://mukles.vercel.app)  
 📌 **Resume:** [Check it out](https://drive.google.com/file/d/1j_2PgME5xOP-zfOGiNRqej2qLFLW5bPk/view?usp=sharing)  
 
 ### 📊 GitHub Stats  
